@@ -118,4 +118,4 @@ if (message.content.startsWith('!count')) {
 });
 
 
-bot.login('NTE0NzEzMTk5NTA1ODMzOTg0.Dt7hSQ.uCH_kFX_0THzB277s83to-tcArY');
+bot.login('NTE3MjU4NzkzNzMwNTcyMjk4.Dt_snA.lzwsNVr0JXZA16yVCqy-fDg4IEM');
